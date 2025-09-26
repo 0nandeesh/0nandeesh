@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandeesh C M</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Frontend Developer | Tech Explorer from India</h3>
+<h3 align="center">🚀 AI/ML Enthusiast |  Data Analyst | Tech Explorer from India</h3>
 
 ---
 
