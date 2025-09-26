@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing **B.E. in AI & ML** at RV College of Engineering (CGPA: 8.44, 6th Semester)  
+- 🎓 Pursuing **B.E. in AI & ML** at RV College of Engineering. 
 - 🔬 Passionate about **Artificial Intelligence, Machine Learning, Data Science, and UI/UX Design**  
 - 📊 Skilled in **Data Analysis, Visualization, SQL, and DSA**  
 - 📑 Published at **IEEE ICKECS 2025** – *AI Enhanced Workout Tracking and Form Validation with Food Composition Calculator*  
